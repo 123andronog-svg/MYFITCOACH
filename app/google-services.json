@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944786680962",
+    "project_id": "myfitcoach-2c4a6",
+    "storage_bucket": "myfitcoach-2c4a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944786680962:android:03c29953d2ef554c9a589b",
+        "android_client_info": {
+          "package_name": "com.example.myfitcoach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUC3-kSZ3wEG9fRs63gZvR06JAFVh-X5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
